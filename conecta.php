@@ -65,3 +65,4 @@ define("DB_HOST", $Host);
 define("DB_USER_NAME", $dbUserName);
 define("DB_PASS", $dbPass);
 define("DB_NAME", $DbName);
+?>
